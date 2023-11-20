@@ -79,7 +79,7 @@ const removeItem=(index)=>{
 
 
       </div>
-            <div><h1>maa radha rani</h1></div>
+         
   
     </div>
   );
